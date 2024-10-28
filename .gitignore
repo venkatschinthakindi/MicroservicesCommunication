@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/gRPC_Client/bin/Debug/net8.0
+/gRPC_Client/obj/Debug/net8.0
+/gRPC_Communication/obj/Debug/net8.0
+/gRPC_Server/bin/Debug/net8.0
+/gRPC_Server/obj/Debug/net8.0
+/.vs
