@@ -1,0 +1,27 @@
+﻿syntax = "proto3";
+import "google/protobuf/empty.proto";
+option csharp_namespace = "GrpcService";
+
+package Product;
+
+service Product {
+	//Unary gRPC communication mechanism
+	rpc GetAll(google.protobuf.Empty) returns (Products);
+
+	//Server Streaming gRPC communication mechanism
+	rpc ServerStreamingDemo(google.protobuf.Empty) returns(stream ProductModel);
+
+	//Client Streaming gRPC communication mechanism
+	rpc ClientStreamingDemo(stream ProductModel) returns (Products);
+
+	// Client and Server gRPC stream communication mechanism
+	rpc BidirectionalStreamingDemo(stream ProductModel) returns (stream ProductModel);
+}
+
+message ProductModel{
+	string Name = 1;
+	int32 Id = 2;
+}
+message Products{
+	repeated ProductModel ProductsList = 1;
+}
