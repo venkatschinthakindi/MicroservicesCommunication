@@ -8,3 +8,4 @@
 /gRPC_Server/bin/Debug/net8.0
 /gRPC_Server/obj/Debug/net8.0
 /.vs
+/EventSourcing/obj/Debug/net8.0

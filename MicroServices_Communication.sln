@@ -11,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "gRPC", "gRPC", "{A21845E8-9
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EventSourcing", "EventSourcing", "{24AF69A6-2EED-4F20-8CF8-7C1B85019C0F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventSourcing", "EventSourcing\EventSourcing.csproj", "{FCA6C235-DDAF-4B99-AD78-5DCBA30B6263}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{50866D9C-6840-4124-BC9C-0044DCAB67AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50866D9C-6840-4124-BC9C-0044DCAB67AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50866D9C-6840-4124-BC9C-0044DCAB67AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCA6C235-DDAF-4B99-AD78-5DCBA30B6263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCA6C235-DDAF-4B99-AD78-5DCBA30B6263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCA6C235-DDAF-4B99-AD78-5DCBA30B6263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCA6C235-DDAF-4B99-AD78-5DCBA30B6263}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,6 +38,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{07BF6822-7189-48D1-8137-7D19EA7A231A} = {A21845E8-9AFC-4C0B-8CF2-855748B3BB9C}
 		{50866D9C-6840-4124-BC9C-0044DCAB67AD} = {A21845E8-9AFC-4C0B-8CF2-855748B3BB9C}
+		{FCA6C235-DDAF-4B99-AD78-5DCBA30B6263} = {24AF69A6-2EED-4F20-8CF8-7C1B85019C0F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F0083B21-E831-47B7-9E20-11BAE6CA0C20}
