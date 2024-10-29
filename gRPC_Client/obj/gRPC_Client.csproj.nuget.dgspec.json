@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Practice\\Microservices\\Grpc-Communication\\gRPC_Communication\\gRPC_Client\\gRPC_Client.csproj": {}
+    "D:\\Practice\\Microservices\\MicroservicesCommunication\\gRPC_Client\\gRPC_Client.csproj": {}
   },
   "projects": {
-    "D:\\Practice\\Microservices\\Grpc-Communication\\gRPC_Communication\\gRPC_Client\\gRPC_Client.csproj": {
+    "D:\\Practice\\Microservices\\MicroservicesCommunication\\gRPC_Client\\gRPC_Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Practice\\Microservices\\Grpc-Communication\\gRPC_Communication\\gRPC_Client\\gRPC_Client.csproj",
+        "projectUniqueName": "D:\\Practice\\Microservices\\MicroservicesCommunication\\gRPC_Client\\gRPC_Client.csproj",
         "projectName": "gRPC_Client",
-        "projectPath": "D:\\Practice\\Microservices\\Grpc-Communication\\gRPC_Communication\\gRPC_Client\\gRPC_Client.csproj",
+        "projectPath": "D:\\Practice\\Microservices\\MicroservicesCommunication\\gRPC_Client\\gRPC_Client.csproj",
         "packagesPath": "C:\\Users\\chven\\.nuget\\packages\\",
-        "outputPath": "D:\\Practice\\Microservices\\Grpc-Communication\\gRPC_Communication\\gRPC_Client\\obj\\",
+        "outputPath": "D:\\Practice\\Microservices\\MicroservicesCommunication\\gRPC_Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

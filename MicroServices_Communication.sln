@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "gRPC_Server", "gRPC_Server\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "gRPC_Client", "gRPC_Client\gRPC_Client.csproj", "{50866D9C-6840-4124-BC9C-0044DCAB67AD}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "gRPC", "gRPC", "{A21845E8-9AFC-4C0B-8CF2-855748B3BB9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,6 +26,10 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{07BF6822-7189-48D1-8137-7D19EA7A231A} = {A21845E8-9AFC-4C0B-8CF2-855748B3BB9C}
+		{50866D9C-6840-4124-BC9C-0044DCAB67AD} = {A21845E8-9AFC-4C0B-8CF2-855748B3BB9C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F0083B21-E831-47B7-9E20-11BAE6CA0C20}

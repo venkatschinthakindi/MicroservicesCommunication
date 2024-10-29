@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SWfVfjrLhCQ=",
+  "dgSpecHash": "+z+7SoovYDA=",
   "success": true,
-  "projectFilePath": "D:\\Practice\\Microservices\\Grpc-Communication\\gRPC_Communication\\gRPC_Server\\gRPC_Server.csproj",
+  "projectFilePath": "D:\\Practice\\Microservices\\MicroservicesCommunication\\gRPC_Server\\gRPC_Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chven\\.nuget\\packages\\google.protobuf\\3.27.0\\google.protobuf.3.27.0.nupkg.sha512",
     "C:\\Users\\chven\\.nuget\\packages\\grpc.aspnetcore\\2.66.0\\grpc.aspnetcore.2.66.0.nupkg.sha512",
