@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gRPC_Server", "gRPC_Server\gRPC_Server.csproj", "{07BF6822-7189-48D1-8137-7D19EA7A231A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "gRPC_Server", "gRPC_Server\gRPC_Server.csproj", "{07BF6822-7189-48D1-8137-7D19EA7A231A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gRPC_Client", "gRPC_Client\gRPC_Client.csproj", "{50866D9C-6840-4124-BC9C-0044DCAB67AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "gRPC_Client", "gRPC_Client\gRPC_Client.csproj", "{50866D9C-6840-4124-BC9C-0044DCAB67AD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
