@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "gRPC_Server", "gRPC_Server\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "gRPC_Client", "gRPC_Client\gRPC_Client.csproj", "{50866D9C-6840-4124-BC9C-0044DCAB67AD}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "gRPC", "gRPC", "{A21845E8-9AFC-4C0B-8CF2-855748B3BB9C}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "gRPC_Communication", "gRPC_Communication", "{A21845E8-9AFC-4C0B-8CF2-855748B3BB9C}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EventSourcing", "EventSourcing", "{24AF69A6-2EED-4F20-8CF8-7C1B85019C0F}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EventSourcing_Communication", "EventSourcing_Communication", "{24AF69A6-2EED-4F20-8CF8-7C1B85019C0F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventSourcing", "EventSourcing\EventSourcing.csproj", "{FCA6C235-DDAF-4B99-AD78-5DCBA30B6263}"
 EndProject
